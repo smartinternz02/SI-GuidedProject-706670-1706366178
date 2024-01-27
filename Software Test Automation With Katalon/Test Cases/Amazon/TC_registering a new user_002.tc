@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_registering a new user_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4c919710-6c50-4c52-8cea-2e947f5defce</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4469dfb0-af8c-4994-add4-4c5a47a27cb5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>46a465ad-b2db-4db5-aecc-d4939eba3524</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>860c3689-a397-46cd-a8a9-b5bd1bde21a3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'t802291@gmail.com'</defaultValue>
+      <description></description>
+      <id>4469dfb0-af8c-4994-add4-4c5a47a27cb5</id>
+      <masked>false</masked>
+      <name>emailid</name>
+   </variable>
+   <variable>
+      <defaultValue>'320756'</defaultValue>
+      <description></description>
+      <id>46a465ad-b2db-4db5-aecc-d4939eba3524</id>
+      <masked>false</masked>
+      <name>otp</name>
+   </variable>
+   <variable>
+      <defaultValue>'test'</defaultValue>
+      <description></description>
+      <id>860c3689-a397-46cd-a8a9-b5bd1bde21a3</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>
